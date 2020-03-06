@@ -1,0 +1,8 @@
+READ-ME
+
+CrosswordB is the program you compile.  It takes following parameters on command line to compile
+
+@Param 1: Type of Dictionary Holder (Type DLB for fastest traversal or MyDictionary for the slow comparison)
+@Param 2: Name of dictionary file (Use dict8.txt)
+@Param 3: Name of board you wish to solve (type name of any of the included text files. Note files 5a and beyond will take longer due to exponential nature of algorithm. 
+
